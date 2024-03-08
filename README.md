@@ -1,5 +1,5 @@
 ![Inove banner](inove.jpg)
-Inove Escuela de Código\
+Arequipa - Peru\
 info@inove.com.ar\
 Web: [Inove](http://inove.com.ar)
 
